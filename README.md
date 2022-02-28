@@ -1,7 +1,7 @@
 # PPR Community Repository
 ### Repository for community-made color schemes/sounds/fonts for [PPR](https://github.com/ppr-game/PPR)
 
-## How to submit
+# How to submit
 ### First of all
 Please, make sure that the thing you are trying to submit is fully compatible with the [latest release of the game](https://github.com/ppr-game/PPR/releases).
 
@@ -12,12 +12,13 @@ To be able to play again, you should either change the sound pack to default bef
 
 **Please use either .zip or .rar format**
 
-### Submitting
+## Submitting
+### Please make sure that the title of your submission is not already taken.
 1.Clone the repository, I am sure you can find some guides online. <br>
 2.Put folder(s) with your submission(s) under one of the three folders, they are all named, the way they are named in the `resources` folder in game's core folder. (Please avoid using the name "Default" in your submission, as it will overwrite the default resources).
 3.Make a pull request to the repo with the following template:
 ```
-Title: [Title of the mod]
+Title: [Title of the submission]
 Category: [Audio/Fonts/Color Schemes]
 (OPTIONAL) Author: [Author]
 (OPTIONAL) Date: [Date the submission was updated/created]
